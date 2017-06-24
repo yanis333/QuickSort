@@ -1,2 +1,2 @@
 # QuickSort
-QuickSort implementation
+QuickSort (median of three/3pivots) implementation
